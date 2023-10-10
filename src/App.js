@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>12.okt</p>
+        <p>12.okt.</p>
       </header>
     </div>
   );
