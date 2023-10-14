@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tolfteokt/static/css/main.073c9b0a.css",
-    "main.js": "/tolfteokt/static/js/main.70146897.js",
+    "main.js": "/tolfteokt/static/js/main.760510d7.js",
     "static/js/787.9b53620c.chunk.js": "/tolfteokt/static/js/787.9b53620c.chunk.js",
     "index.html": "/tolfteokt/index.html",
     "main.073c9b0a.css.map": "/tolfteokt/static/css/main.073c9b0a.css.map",
-    "main.70146897.js.map": "/tolfteokt/static/js/main.70146897.js.map",
+    "main.760510d7.js.map": "/tolfteokt/static/js/main.760510d7.js.map",
     "787.9b53620c.chunk.js.map": "/tolfteokt/static/js/787.9b53620c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.70146897.js"
+    "static/js/main.760510d7.js"
   ]
 }
